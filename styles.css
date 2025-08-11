@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(78, 182, 181);
+}
+
+h1, h3 {
+    font-family: 'Courier New', Courier, monospace ;
+    text-align: center ;
+}
+.anco{
+    display: block;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+.verse {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center ;
+}
+
+.chorus {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center ;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
+
+/* 
+Style the content of the webpage (index.html):
+[x] Make the title appear in the center of the page using the margin property or text-align property
+[x] Make the author appear in the center of the page using the margin property or text-align property
+[x] Make the words of the poem appear in a different font
+*/
+
